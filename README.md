@@ -67,8 +67,8 @@ EmployeeManagementSystem/
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Deba951/27667380.git
-    cd 27667380
+    git clone https://github.com/Deba951/Employee-Management-System.git
+    cd Employee-Management-System
     ```
    ```Or Downlod the zip file and unzip the repository.```
 
